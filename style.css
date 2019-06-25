@@ -1,0 +1,292 @@
+.home
+{
+    background-image:url(business-2.jpg);
+    height: 900; 
+    background-position: center;
+    background-size: 100% 100%;
+}
+.test
+{
+    height: 900;
+    background-color: rgba(0,0,0,0.3);
+}
+.time
+{
+    text-align: center;
+    padding-top: 250;
+    font-size: 20;
+    font-family: 'Hind Guntur', sans-serif;
+    font-weight: 700;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav
+{
+    float: right;
+    list-style-type: none;
+    margin-top: 30;
+    margin-right: 50;
+    text-decoration-line: none;
+
+}
+ul li
+{
+    padding-left: 25;
+    display: inline-block;
+    
+}
+ul li a 
+{
+    text-decoration-line: none;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+
+
+
+
+
+img
+{
+    height: 35; 
+    margin-left: 70;
+    margin-top: 35;
+}
+ .co 
+{
+    background-color: lightgreen;
+    padding: 10; 10;
+    margin-left: 20;
+}
+
+.pr
+{
+    height: 200;
+    width: 300;
+    display: inline-block;
+    text-align: left;
+    width: 33%;
+    margin-top: 60;
+    font-size: 25;
+    padding-left: 70;
+    font-family: 'Assistant', sans-serif;
+    color: rgba(0,0,0,0.6);
+        
+}
+.sm
+{
+    height: 200;
+    width: 300;
+    display: inline-block;
+    text-align: left;
+    width: 33%;
+    margin-top: 60;
+    font-size:25;
+    font-family: 'Assistant', sans-serif;
+    color: rgba(0,0,0,0.6);
+}
+.sa
+{
+    height: 200;
+    width:300;
+    display: inline-block;
+    text-align: left;
+    margin-top: 60;
+    font-size:25;
+    padding-left:50;
+    font-family: 'Assistant', sans-serif;
+    color: rgba(0,0,0,0.6);
+}
+.our{
+    text-align: center;
+    margin-top: 100;
+    font-size:25;
+    font-family: 'Hind Guntur', sans-serif;
+    color: rgba(0,0,0,0.6);
+}
+.it
+{
+    display: inline-block;
+    
+}
+.full
+{
+    height: 250;
+}
+.cool
+{
+  display: inline-block;
+
+}
+.col
+{
+height: 250;    
+
+
+}
+.sup
+{
+   display: inline-block;
+    
+}
+.supp
+{
+    height: 250; 
+}
+.tx
+{
+    padding-left: 70;
+    text-align: left;
+    margin-top: 30;
+    font-size: 15;
+    font-weight: 800;
+    font-family: 'Hind Guntur', sans-serif;
+}
+.btn
+{
+    margin-left: 60;
+    margin-top: 20;
+    padding: 10; 10;
+    border: none;
+    background-color: aliceblue;
+    font-size: 15;
+    font-weight: 600;
+    font-family: 'Hind Guntur', sans-serif;
+}
+.secret
+{
+    width: 500;
+    display: inline-block;
+    text-align: left;
+    margin-top: 100;
+    font-size: 25;
+    margin-left: 50;
+    font-family: 'Hind Guntur', sans-serif;
+    color: rgba(0,0,0,0.6);
+    
+}
+.main
+{
+    display: inline-block;
+    float: right;
+    margin-right: 100;
+    margin-bottom: 20;
+}
+.bus
+{
+height: 500;    
+}
+.btns
+{
+    margin-top: 30;
+    padding: 10;
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 5%;
+    border: none;
+    font-family: 'Hind Guntur', sans-serif;
+    font-weight: 600;
+    color: aliceblue;
+
+}
+
+.zzz
+{
+    height: 350;
+}
+
+.human
+{
+    font-size: 20;
+    padding: 70; 70;
+    font-family: 'Hind Guntur', sans-serif;
+    color: rgba(0,0,0,0.6);
+}
+
+.like
+{
+   height: 400;
+   width: 300; 
+   display: inline-block;
+   text-align: center;
+   padding-top: 100;
+   font-family: 'Armata', sans-serif;
+   font-size:30;
+   color: rgba(0,0,0,0.6);
+}
+
+.location
+{
+   height: 400;
+   width: 300;  
+   display: inline-block;
+   text-align: center;
+   padding-top: 100;
+   font-family: 'Armata', sans-serif;
+   font-size:30;
+   color: rgba(0,0,0,0.6);
+}
+
+.deal
+{
+   height: 400;
+   width: 300;    
+   display: inline-block;
+   text-align: center;
+   padding-top: 100;
+   font-family: 'Armata', sans-serif;
+   font-size:30;
+   color: rgba(0,0,0,0.6);
+}
+
+.comment
+{
+   height: 400;
+   width: 300;  
+   display: inline-block;
+  text-align: center; 
+  padding-top: 100;
+  font-family: 'Armata', sans-serif;
+  font-size:30;
+  color: rgba(0,0,0,0.6);
+}
+
+.all
+{
+    margin-left: 40;
+}
+.add
+{
+    background-image: url(full-2.jpg);
+    height: 600;
+    background-size: 100%; 100%;
+    text-align: center;
+    margin-bottom: 50;
+}
+.ph{
+    text-align: center;
+    padding-top: 230;  
+    font-size: 20;
+    color: aliceblue;
+    font-family: 'Hind Guntur', sans-serif;
+    font-weight: 600;
+}
+.le
+{
+    padding: 15; 15;
+    background-color: forestgreen;
+    color: aliceblue;
+    border: none;
+    font-family: 'Armata', sans-serif;
+    font-weight: 600; 
+}
+    
+
+
